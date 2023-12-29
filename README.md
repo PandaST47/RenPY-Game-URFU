@@ -22,7 +22,7 @@
 
 - Помочь абитуриенту с выбором ИТ-специализации
 
-#### [Презентация](https://vk.com/doc297912046_674511817?hash=xvjDAtajbegA3hXU4AviyGB7qljYwr2WObFq9oBrero&dl=cizM0l4UpLB26uC9eETw8GSs8uZt3Ej5GAV316iALM4)
+### [Презентация](https://vk.com/doc297912046_674511817?hash=xvjDAtajbegA3hXU4AviyGB7qljYwr2WObFq9oBrero&dl=cizM0l4UpLB26uC9eETw8GSs8uZt3Ej5GAV316iALM4)
 
 - [Игра](https://github.com/PandaST47/RenPY-Game-URFU/releases/tag/Final)
 
