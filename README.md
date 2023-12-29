@@ -12,11 +12,11 @@
 
 **В команде проекта 5 человек:**
 
-Павел Полуяхтов - Тимлид
-Егор Баринов – Аналитик
-Матвей Муравьёв – Game-дизайнер (Сценарист)
-Никита Франгу – Дизайнер
-Кирилл Колесник – Разработчик
+- Павел Полуяхтов - Тимлид
+- Егор Баринов – Аналитик
+- Матвей Муравьёв – Game-дизайнер (Сценарист)
+- Никита Франгу – Дизайнер
+- Кирилл Колесник – Разработчик
 
 ### Цель проекта
 
@@ -25,10 +25,12 @@
 #### [Презентация](https://vk.com/doc297912046_674511817?hash=xvjDAtajbegA3hXU4AviyGB7qljYwr2WObFq9oBrero&dl=cizM0l4UpLB26uC9eETw8GSs8uZt3Ej5GAV316iALM4)
 
 - [Игра](https://github.com/PandaST47/RenPY-Game-URFU/releases/tag/Final)
+
   - [1-3 главы](https://github.com/PandaST47/RenPY-Game-URFU/tree/main/1-3%20chapter/1-3%20chapter%20music)
          - [Музыка](https://github.com/PandaST47/RenPY-Game-URFU/tree/main/1-3%20chapter/1-3%20chapter%20music)
          - [Задний фон](https://github.com/PandaST47/RenPY-Game-URFU/tree/main/1-3%20chapter/1-3%20chapter%20background)
          - [Персонажи](https://github.com/PandaST47/RenPY-Game-URFU/tree/main/1-3%20chapter/characters%201-3%20chapter)
+         
   - [4-6 главы](https://github.com/PandaST47/RenPY-Game-URFU/tree/main/4-6chapter)
          - [Музыка](https://github.com/PandaST47/RenPY-Game-URFU/tree/main/4-6chapter/4-6%20chapter%20music)
          -  [Задний фон](https://github.com/PandaST47/RenPY-Game-URFU/tree/main/4-6chapter/4-6%20chapter%20background)
